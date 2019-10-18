@@ -16,7 +16,7 @@
 title: Play is research.
 description: Playwork is a play-driven research lab based in Los Angeles, CA.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://playwork.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://playwork.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_repo: playworklab.github.io # the GitHub repo name for your project
 github_username: playworklab
 
